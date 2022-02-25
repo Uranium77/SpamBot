@@ -12,7 +12,7 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/3275b2665ea2e062f61b8.jpg"
+RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/efc9f0fafe82b8cfe255d.jpg"
   
 
 rizoel = "✯ 𝗨𝗥𝗔𝗡𝗜𝗨𝗠✘𝗦𝗣𝗔𝗠 𝗛𝗲𝗿𝗲 ✯\n\n"
