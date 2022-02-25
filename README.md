@@ -20,8 +20,8 @@
 
 
 # Support & Updates
-* [Channel](https://t.me/RiZoeLX)
-* [Support Group](https://t.me/DNHcHELL)
+* [Channel](https://t.me/ABOUT_THE_URANIUM)
+* [Support Group](https://t.me/URANIUM_FIGHTERS)
 
 # Credits
 * [Creator](https://github.com/THE_URANIUM)
