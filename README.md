@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/97283524d640f9ebd41d2.jpg" alt="BOT-SPAM Logo">
+  <img src="https://telegra.ph/file/3275b2665ea2e062f61b8.jpg" alt="BOT-SPAM Logo">
 </p>
 <h1 align="center">
-  <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
+  <b>ᴜʀᴀɴɪᴜᴍ ✘ sᴘᴀᴍ</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/MrRizoel/Spambot?style=flat-square&color=orange)](https://github.com/MrRizoel/Spambot/fork)
