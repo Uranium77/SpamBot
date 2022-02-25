@@ -16,7 +16,7 @@
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Uranium77/URANIUM-BOTFATHER-SPAM-deploy-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/URANIUM-BOTFATHER-SPAM-deploy-)
 
 
 # Support & Updates
